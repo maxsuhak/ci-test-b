@@ -1,0 +1,11 @@
+AllCops:
+  TargetRubyVersion: 2.7
+  DisplayCopNames: true
+  SuggestExtensions: false
+  NewCops: enable
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
