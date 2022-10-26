@@ -1,4 +1,4 @@
 config:
   ruby: ruby-2.7.2
-  app:version: 1.0.0-alpha-2022/10/25-5ac61814d20bd4af3f42
+  app:version: 1.0.0-alpha-2022/10/26-da9402b80592a93f0999
   bundler: 2.2.27
